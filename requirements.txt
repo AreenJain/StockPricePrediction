@@ -6,4 +6,4 @@ yfinance
 keras
 tensorflow
 datetime
-sklearn
+scikit-learn
